@@ -1,0 +1,16 @@
+{
+    "name": "gibs/composer3",
+    "description": "Composer 3 Wild Code School Quest",
+    "autoload": {
+        "psr-4": {
+            "Gibs\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lionel D.",
+            "email": "lionel.deri@gmail.com"
+        }
+    ],
+    "require": {}
+}
